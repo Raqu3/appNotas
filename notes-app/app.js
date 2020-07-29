@@ -1,3 +1,5 @@
+//se instala node js, el cual se descarga de la página web nodejs.org
+//Por defecto, npm installinstalará todos los módulos listados como dependencias en package.json.
 const chalk = require('chalk')
 const yargs = require('yargs')
 const notes = require('./notes.js')
