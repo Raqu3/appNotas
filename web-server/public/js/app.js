@@ -22,7 +22,7 @@ response.json().then((data)=>{
     } else {
         messageOne.textContent = data.location
         messageTwo.textContent = data.forecast
-    
+
     }
 })
 })
