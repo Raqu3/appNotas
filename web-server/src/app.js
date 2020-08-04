@@ -97,7 +97,7 @@ res.render('404', {
 
 //app.listen() Esto inicia el servidor en un puerto en específico
 app.listen(port, () => {
-    console.log('Server is up on port 3000 ' + port)
+    console.log('Server is up on port ' + port)
 }) 
 
 
